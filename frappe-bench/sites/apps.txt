@@ -1,0 +1,4 @@
+frappe
+vehicle_rentals
+airplane_mode
+star_rentals

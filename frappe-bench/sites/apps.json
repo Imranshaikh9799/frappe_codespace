@@ -1,0 +1,41 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.0.0-dev"
+    },
+    "star_rentals": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "cc48f2b7900c2fec8a02d892b32be06bf8986c69",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "vehicle_rentals": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "7fe1f396de3d6935fadbda2bba288109eb856cf4",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    },
+    "airplane_mode": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "5d0b850a5f152db29d9eda23e18cbf5fe114eeed",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    }
+}
